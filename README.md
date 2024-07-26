@@ -1,3 +1,4 @@
+![Banner](https://github.com/IVIOIST/IVIOIST/raw/main/asuka.gif)
 # Hi there, I'm Erik! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
