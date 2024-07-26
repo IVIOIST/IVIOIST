@@ -1,7 +1,6 @@
 ![Banner](https://github.com/IVIOIST/IVIOIST/raw/main/asuka.gif)
 # Hi there, I'm Erik! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=IVIOIST&color=brightgreen)
 
 ## 👨‍💻 About Me
 - 🤵‍♂️ Passionate and driven software engineeer
