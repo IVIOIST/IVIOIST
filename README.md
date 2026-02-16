@@ -2,49 +2,49 @@
 
 <div align="center">
 
-# Hi there, I'm Erik! 👋
+# Hi, I'm Erik
 
-### 🚀 Passionate Software Engineer | 🎓 University of Sydney Student 
+Software Engineering @ University of Sydney
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```typescript
 const erik = {
-    pronouns: "he/him",
-    education: "Software Engineering @ University of Sydney",
-    currentFocus: ["Web Development", "Full-Stack Applications", "Open Source"],
-    funFact: "I believe great code is like poetry - it should be elegant and tell a story",
-    askMeAbout: ["JavaScript", "Python", "Web Technologies", "University Life"],
-    currentlyLearning: ["React", "Node.js", "Database Design", "System Architecture"]
+    education: "BEng (Software) @ University of Sydney",
+    interests: ["Systems", "Low-level Programming", "AI/ML", "Backend"],
+    currentFocus: ["C", "Operating Systems", "Distributed Systems"],
+    tools: ["Linux", "Git", "Jira", "Slack"],
 };
 ```
-🌱 **Learning journey:** Diving deep into web development, from frontend frameworks to backend architectures  
-👯 **Open to collaborate:** Excited to work on innovative projects and contribute to open source  
-💬 **Let's connect:** Always happy to discuss tech, share knowledge, or explore new opportunities  
+
+- Software engineering student focused on systems and performance-oriented programming  
+- Interested in low-level systems, networking, and applied AI  
+- Currently building personal projects alongside coursework  
+- Open to research, internships, and technical collaboration
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Tools & Technologies
+### Tools
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
@@ -58,20 +58,16 @@ const erik = {
 
 ---
 
-## 🌟 What I'm Up To
+## Current Focus
 
-- 🎓 **Academic Focus:** Mastering software engineering principles and best practices
-- 💻 **Current Project:** Building a full-stack web application using modern technologies
-- 📚 **Learning Path:** Exploring React ecosystem and backend development
-- 🤝 **Community:** Contributing to open source and connecting with fellow developers
+- Systems programming and computer architecture  
+- Operating systems and networking fundamentals  
+- AI/ML and embedded systems intersections  
+- Building robust, well-documented personal projects
 
 ---
 
 <div align="center">
-
-### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-**Thanks for visiting! Let's build something amazing together.** ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IVIOIST&color=blueviolet&style=flat-square)
 
